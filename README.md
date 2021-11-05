@@ -12,16 +12,20 @@ Vídeo del `Homebrew`
 <details>
   <summary>◢ Que Incluye ◣ </summary>
  
- * ### ★Versión 1.0
-Black Ops 2 (BLES01718)
+  ## ★Versión 1.1 
+#### Añadido Un Menú Para Call Of Duty Black Ops (BLUS30591)
+    Snow Engine  
+  
+  ## ★Versión 1.0
+ #### Black Ops 2 (BLES01718)
     G'HENisys
     Phoenix
 
-Black Ops 3 (NPEB02266)
+#### Black Ops 3 (NPEB02266)
     Retro Client
     Spectre Engine
 
-Call Of Duty 4 (BLES00155)
+#### Call Of Duty 4 (BLES00155)
     Amanda
     Choco's Menu
     Ghost Legacy
@@ -32,7 +36,7 @@ Call Of Duty 4 (BLES00155)
     Sooooo Wasted
     x2EzYx--'s Menu
 
-Call Of Duty 5 (BLUS30192)
+#### Call Of Duty 5 (BLUS30192)
     BZH35
     CoDGlitcherHDs
     Discarded v3 [Zombies]
@@ -41,11 +45,11 @@ Call Of Duty 5 (BLUS30192)
     Vortex Gaming
     xKoWx v3
 
-Gran Theft Auto 5 (BLES01807)
+#### Gran Theft Auto 5 (BLES01807)
     CYB3R Modloader
     Salfety v4.2
 
-Modern Warfare 2 (BLUS30377)
+#### Modern Warfare 2 (BLUS30377)
     {CM}'s Private
     Black Ice v1
     Cylerem
@@ -57,7 +61,7 @@ Modern Warfare 2 (BLUS30377)
     Superman
     TyqaSystems v2
 
-Modern Warfare 3 (BLUS30838)
+#### Modern Warfare 3 (BLUS30838)
     Aftermath
     Akardia Engine
     Exodus
@@ -72,14 +76,11 @@ Modern Warfare 3 (BLUS30838)
     Sweg Engine
     Vitual Energy v2
 
-Modern Warfare 3 Spec Ops (BLUS30838)
+#### Modern Warfare 3 Spec Ops (BLUS30838)
     Chaos Cheats  
     Resistance v3
     Simple Menu
 
-* ### ★Versión 1.1 
-Añadido Un Menú Para Call Of Duty Black Ops (BLUS30591)
-    Snow Engine
 </details>
 
 
